@@ -1,0 +1,21 @@
+{
+  "name": "ts-phaser-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^2.6.2",
+    "typescript": "^2.2.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.6",
+    "gulp-webserver": "^0.9.1"
+  }
+}
